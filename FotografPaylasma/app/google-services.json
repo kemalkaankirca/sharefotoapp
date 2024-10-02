@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181045633325",
+    "project_id": "fotografpaylasimi-c4af2",
+    "storage_bucket": "fotografpaylasimi-c4af2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181045633325:android:3508afe8d1968b13ca33a4",
+        "android_client_info": {
+          "package_name": "com.example.fotografpaylasma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxK8bK7j_QHqiPfppjMsfkYxO5rvU9A_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
